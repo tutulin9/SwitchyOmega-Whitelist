@@ -1366,6 +1366,9 @@ fonts.googleapis.com
 
 ; The following domains are carried over from geosite:cn.
 
+
+
+
 *.0123456789.com 
 *.0379home.com 
 *.055110.com 
@@ -1391,8 +1394,8 @@ fonts.googleapis.com
 *.17house.com 
 *.18183.com 
 *.188.com 
-*.19yxw.com 
 *.1905.com 
+*.19yxw.com 
 *.1nongjing.com 
 *.1ting.com 
 *.1zhe.com 
@@ -1454,8 +1457,8 @@ fonts.googleapis.com
 *.52z.com 
 *.53kf.com 
 *.55.com 
-*.55bbs.com 
 *.5577.com 
+*.55bbs.com 
 *.56.com 
 *.58pic.com 
 *.5bite.com 
@@ -1577,6 +1580,8 @@ fonts.googleapis.com
 *.ch.com 
 *.chachaba.com 
 *.changba.com 
+*.chaoxing.cc 
+*.chaoxing.com 
 *.chashebao.com 
 *.chazhengla.com 
 *.che168.com 
@@ -1644,6 +1649,7 @@ fonts.googleapis.com
 *.ctoutiao.com 
 *.ctsbw.com 
 *.cubead.com 
+*.cubox.pro
 *.cwxzx.com 
 *.cyagen.com 
 *.cybtc.com 
@@ -1679,6 +1685,7 @@ fonts.googleapis.com
 *.diandian.com 
 *.diandianqi.com 
 *.dianwannan.com 
+*.dida365.com
 *.didichuxing.com 
 *.dingxiang-inc.com 
 *.diopic.net 
@@ -1729,6 +1736,7 @@ fonts.googleapis.com
 *.emarbox.com 
 *.enterdesk.com 
 *.eoeandroid.com 
+*.eudic.net
 *.excelhome.net 
 *.expreview.com 
 *.f.cx 
@@ -1747,6 +1755,7 @@ fonts.googleapis.com
 *.fimmu.com 
 *.finchina.com 
 *.fixdown.com 
+*.fm3838.com 
 *.fqjob.net 
 *.freebuf.com 
 *.fugetech.com 
@@ -1766,6 +1775,7 @@ fonts.googleapis.com
 *.geetest.com 
 *.geilicdn.com 
 *.genelinkout.com 
+*.getquicker.net
 *.getui.com 
 *.gezida.com 
 *.gfan.com 
@@ -1854,11 +1864,12 @@ fonts.googleapis.com
 *.ijiandao.com 
 *.ijinshan.com 
 *.ikafan.com 
+*.im-cc.com 
 *.im2maker.com 
 *.imedao.com 
 *.imgo.tv 
+*.imomoe.in
 *.imooc.com 
-*.im-cc.com 
 *.indienova.com 
 *.infoq.com 
 *.infoqstatic.com 
@@ -1895,6 +1906,7 @@ fonts.googleapis.com
 *.jiazhao.com 
 *.jiemeng8.com 
 *.jikexueyuan.com 
+*.jindidata.com 
 *.jinianbi.com 
 *.jinrongren.net 
 *.jinse.com 
@@ -1951,7 +1963,9 @@ fonts.googleapis.com
 *.lady8844.com 
 *.laomaotao.net 
 *.laomaotao.org 
+*.larsonlimited.com 
 *.lascn.net 
+*.lavafox.com
 *.lawxp.com 
 *.le.com 
 *.leanote.com 
@@ -1977,6 +1991,7 @@ fonts.googleapis.com
 *.likuso.com 
 *.lingkou.com 
 *.linkvans.com 
+*.linmi.cc
 *.linsn.com 
 *.linuxidc.com 
 *.liulanqi.net 
@@ -2032,6 +2047,7 @@ fonts.googleapis.com
 *.mjia.cc 
 *.mmbang.com 
 *.mmbang.info 
+*.modian.com
 *.moegirl.org 
 *.mofang.com 
 *.mofazhu.com 
@@ -2046,6 +2062,7 @@ fonts.googleapis.com
 *.mukewang.com 
 *.mumayi.com 
 *.muomou.com 
+*.mvcat.com
 *.mydown.com 
 *.mydrivers.com 
 *.myshow360.net 
@@ -2107,8 +2124,8 @@ fonts.googleapis.com
 *.qc188.com 
 *.qcc.com 
 *.qcds.com 
-*.qd8.com 
 *.qd-metro.com 
+*.qd8.com 
 *.qdmm.com 
 *.qiangbus.com 
 *.qianjia.com 
@@ -2138,18 +2155,19 @@ fonts.googleapis.com
 *.qunarzz.com 
 *.qyer.com 
 *.readnovel.com 
-*.renren.com 
-*.renren-inc.com 
 *.rfchost.com 
+*.rijutv.com
 *.rong360.com 
 *.rtbasia.com 
 *.ruan8.com 
 *.ruby-china.org 
 *.runoob.com 
+*.runsheng.com 
 *.rzrc114.com 
 *.saibo.com 
 *.sanguosha.com 
 *.sanwen.net 
+*.saraba1st.com
 *.scoregg.com 
 *.sczsxx.com 
 *.sdo.com 
@@ -2182,8 +2200,8 @@ fonts.googleapis.com
 *.simuwang.com 
 *.sinesafe.com 
 *.sjwyx.com 
-*.sllssrq.com 
 *.skycn.com 
+*.sllssrq.com 
 *.smzdm.com 
 *.sobot.com 
 *.sofreight.com 
@@ -2213,12 +2231,14 @@ fonts.googleapis.com
 *.tanx.com 
 *.tao123.com 
 *.taoche.com 
+*.tapimg.com
 *.te5.com 
 *.tenxcloud.com 
 *.tgbus.com 
 *.tianjimedia.com 
 *.tianjin-air.com 
 *.tianqi.com 
+*.tianyancha.com 
 *.tietuku.com 
 *.tiexue.net 
 *.timedoo.com 
@@ -2241,6 +2261,7 @@ fonts.googleapis.com
 *.tuicool.com 
 *.tuiwen.net 
 *.tujia.com 
+*.tuku.cc
 *.tuniu.com 
 *.tutuapp.com 
 *.tuwan.com 
@@ -2265,6 +2286,7 @@ fonts.googleapis.com
 *.vijos.org 
 *.vip.com 
 *.vobao.com 
+*.vzuu.com 
 *.wallstreetcn.com 
 *.wangyangyang.vip 
 *.wannianli8.com 
@@ -2295,6 +2317,7 @@ fonts.googleapis.com
 *.windowszj.com 
 *.winwin7.com 
 *.wishdown.com 
+*.withpinbox.com
 *.wmzhe.com 
 *.wnhuifu.com 
 *.womai.com 
@@ -2357,6 +2380,7 @@ fonts.googleapis.com
 *.yeepay.com 
 *.yeshen.com 
 *.yesky.com 
+*.yeyulingfeng.com
 *.yh31.com 
 *.yhd.com 
 *.yicai.com 
@@ -2388,10 +2412,10 @@ fonts.googleapis.com
 *.youlian.fun 
 *.youshang.com 
 *.youxiake.com 
+*.youxigt.com 
 *.youxihezi.net 
 *.youxila.com 
 *.youxiniao.com 
-*.youxigt.com 
 *.youzu.com 
 *.yoyojie.com 
 *.yoyou.com 
@@ -2438,6 +2462,7 @@ fonts.googleapis.com
 *.zhiziyun.com 
 *.zhongkao.com 
 *.zhuangjiba.com  
+*.zhuanxiandai.com 
 *.zhuanyewanjia.com 
 *.zhubajie.com 
 *.zhugeapi.net 
@@ -2449,6 +2474,7 @@ fonts.googleapis.com
 *.zmengzhu.com 
 *.znj.com 
 *.zongheng.com 
+*.zoom3g.com 
 *.zrblog.net 
 *.zsxq.com 
 *.zuche.com 
@@ -2458,16 +2484,3 @@ fonts.googleapis.com
 *.zuowen8.com 
 *.zuowenwang.net 
 *.zybang.com 
-
-*.jindidata.com 
-*.tianyancha.com 
-*.zhuanxiandai.com 
-
-*.fm3838.com 
-*.larsonlimited.com 
-*.runsheng.com 
-*.vzuu.com 
-*.zoom3g.com 
-
-*.chaoxing.com 
-*.chaoxing.cc 
