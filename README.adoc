@@ -18,13 +18,14 @@ link:https://github.com/v2fly/domain-list-community[domain-list-community]，验
 
 link:https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif[安装 SwicthyOmega] 并配置 proxy 模式
 
+
 image::proxy.jpg[]
 
 SwitchyOmega 插件支持 Chrome 和 Firefox。
 
 将默认的 auto switch 模式下的默认情景模式选择 proxy，也就是白名单的工作模式。如果场景列表里没有 auto switch 模式，可以手动添加一个。
 
-在规则列表设置添加此仓库的清单文件：https://raw.githubusercontent.com/EpLiar/SwitchyOmega-Whitelist/master/OmegaRules_auto_switch.sorl
+在规则列表设置添加此仓库的清单文件：https://raw.githubusercontent.com/tutulin9/SwitchyOmega-Whitelist/master/OmegaRules_auto_switch.sorl
 
 或是点击编辑源代码，复制仓库的列表 `OmegaRules_auto_switch.sorl` 里的内容后粘贴。
 
