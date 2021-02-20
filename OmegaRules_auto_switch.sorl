@@ -1,10 +1,9 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update: 2021/02/15
+; Update: 2021/02/20
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; tld-cn
-
 *.alibaba 
 *.alipay 
 *.baidu 
@@ -15,7 +14,6 @@
 *.xn--estv75g 
 
 ; 4399
-
 *.3304399.net 
 *.4399.com 
 *.4399api.com 
@@ -26,13 +24,11 @@
 *.img4399.com 
 
 ; 51job
-
 *.51job.com 
 *.51jobcdn.com 
 *.yingjiesheng.com 
 
 ; 58tongcheng
-
 *.58.com 
 *.5858.com 
 *.58che.com 
@@ -51,26 +47,21 @@
 *.zhuanzhuan.com 
 
 ; acfun
-
 *.aixifan.com 
 
 ; acplay
-
 *.acplay.net 
 *.dandanplay.com 
 
 ; Afdian
-
 *.afdian.net 
 *.afdiancdn.com 
 
 ; alibaba
-
 *.alibaba 
 *.alipay 
 *.taobao 
 *.tmall 
-
 *.25pp.com
 *.56che.com   
 *.95095.com 
@@ -174,12 +165,10 @@
 *.yunos-inc.com 
 *.yushanfang.com 
 *.zuodao.com 
-
 *.cainiao.com 
 *.cainiao-inc.com 
 
 ; Hema
-
 *.freshhema.com 
 *.hemamax.com 
 *.hemaos.com 
@@ -187,7 +176,6 @@
 
 
 ; Taobao
-
 *.1688.com 
 *.etao.com 
 *.juhuasuan.com 
@@ -204,7 +192,6 @@
 *.tmjl.ai
 
 ; Fliggy
-
 *.alitrip.com 
 *.feizhu.com 
 *.fliggy.com 
@@ -212,14 +199,12 @@
 *.iuynfg.com 
 
 ; amap
-
 *.amap.com 
 *.amapauto.com 
 *.autonavi.com 
 *.gaode.com 
 
 ; alibaba-ads
-
 *.afp.adchina.com 
 *.alipaylog.com 
 *.cdn0.mobmore.com 
@@ -244,16 +229,13 @@
 *.yiliao.hupan.com 
 
 ; ASUS
-
 *.router.asus.com 
 
 ; b3log
 *.b3log.org 
 
 ; baidu
-
 *.baidu 
-
 *.91.com 
 *.aipage.com 
 *.apollo.auto 
@@ -286,7 +268,6 @@
 *.xiaodutv.com 
 
 ; baidu-ads
-
 *.click.qianqian.com 
 *.dl-vip.pcfaster.baidu.co.th 
 *.bcebos.com 
@@ -294,7 +275,6 @@
 *.zzy1.quyaoya.com 
 
 ; bilibili
-
 *.acg.tv 
 *.acgvideo.com 
 *.b23.tv 
@@ -310,7 +290,6 @@
 *.mincdn.com 
 
 ; bytedance
-
 *.bytedance.com 
 *.bytedance.net 
 *.bytedns.net 
@@ -336,134 +315,27 @@
 *.zjcdn.com 
 
 ; 西瓜视频
-
 *.ixigua.com 
 *.ixgvideo.com 
 *.365yg.com 
 
-; category-securities-cn
-
-*.sseinfo.com 
-
-; Securities Company 证券公司
-
-*.ajzq.com 
-*.avicsec.com 
-*.ccnew.com 
-*.cczq.com 
-*.cczq.net 
-*.cfzq.com 
-*.cgws.com 
-*.chinalions.com 
-*.cicc.com 
-*.ciccwm.com 
-*.cindasc.com 
-*.cjsc.com 
-*.cnhbstock.com 
-*.csfounder.com 
-*.ctsec.com 
-*.dfham.com 
-*.dxzq.net 
-*.fzfinancing.com 
-*.grzq.com 
-*.gszq.com 
-*.gtja.com 
-*.gtja.com 
-*.guodu.com 
-*.hazq.com 
-*.hczq.com 
-*.hlzqgs.com 
-*.hongtastock.com 
-*.htsec.com 
-*.huajingsec.com 
-*.huayingsc.com 
-*.iztzq.com 
-*.jpmorganchina.com 
-*.jzsec.com 
-*.lczq.com 
-*.lhzq.com 
-*.morganstanleyhuaxin.com 
-*.mszq.com 
-*.nomuraoi-sec.com 
-*.shgsec.com 
-*.shhxzq.com 
-*.shzq.com 
-*.swhysc.com 
-*.tfzq.com 
-*.tpyzq.com 
-*.west95582.com 
-*.wxzq.com 
-*.xcsc.com 
-*.ykzq.com 
-*.ytzq.com 
-*.zszq.com 
-*.ztfsec.com 
-
-; Public Fund Company 公募基金公司
-
-*.99fund.com 
-*.abc-ca.com 
-*.bobbns.com 
-*.bosera.com 
-*.cfund108.com 
-*.changanfunds.com 
-*.cryuantafund.com 
-*.ctfund.com 
-*.fadfunds.com 
-*.foresightfund.com 
-*.founderff.com 
-*.fsfund.com 
-*.ftfund.com 
-*.galaxyasset.com 
-*.gfund.com 
-*.gowinamc.com 
-*.hffunds.cn 
-*.hftfund.com 
-*.hongdefund.com 
-*.hsfund.com 
-*.igwfmc.com 
-*.jtamc.com 
-*.mfcteda.com 
-*.nffund.com 
-*.orient-fund.com 
-*.py-axa.com 
-*.swsmu.com 
-*.tongtaiamc.com 
-*.ubssdic.com 
-*.xf-fund.com 
-*.xqfunds.com 
-*.ydamc.com 
-*.zhfund.com 
-*.zofund.com 
-
-; Fund Sales 基金销售公司
-
-*.5ifund.com 
-*.howbuy.com 
-*.lufunds.com 
-
 ; ccb
-
 *.ccb.com 
 *.ccbfutures.com 
 *.ccbintl.com.hk 
 *.ccbleasing.com 
 *.ccbseoul.com 
 
-
 ; chinamobile
-
 *.139.com 
 *.chinamobile.com 
 *.chinamobileltd.com 
 
 ; Migu
-
 *.migucloud.com 
 *.miguvideo.com 
 
 ; 中移互联
-
 *.andfx.net 
 *.cmpassport.com 
 *.fetion-portal.com 
@@ -472,19 +344,16 @@
 *.mmarket6.com 
 
 ; category-scholar-cn
-
 *.apabi.com 
 *.cnthinkers.com 
 *.cqvip.com 
 
 ; chinatelecom
-
 *.chinatelecom-h.com 
 *.chinatelecomglobal.com 
 *.chntel.com 
 
 ; chinaunicom
-
 *.10010.com 
 *.chinaunicom.com 
 *.chinaunicom.com.hk 
@@ -492,9 +361,7 @@
 *.mychinaunicom.com 
 
 ; citic
-
 *.citic 
-
 *.chinaamc.com 
 *.citicbank.com 
 *.citiccapital.com 
@@ -509,7 +376,6 @@
 *.ecitic.com 
 
 ; CMB
-
 *.cignacmb.com 
 *.cmb-leasing.com 
 *.cmbchina.com 
@@ -518,34 +384,25 @@
 *.cmfchina.com 
 
 ; cnki
-
 *.cnki.net 
 
 ; coding
-
 *.coding.me 
 *.coding.net 
 
+; 在线文档
 *.shimo.im 
 *.yuque.com 
 
 ; coolapk
-
 *.coolapk.com 
 *.coolapkmarket.com 
 *.coolapkmarket.net 
 
-; cowtransfer
-
-*.c-t.work 
-*.cowtransfer.com 
-
 ; csdn
-
 *.csdn.net 
 
 ; ctrip
-
 *.c-ctrip.com 
 *.colinker.com 
 *.ctrip.co.id 
@@ -573,7 +430,6 @@
 *.vipdlt.com 
 
 ; dedao
-
 *.biji.com 
 *.ddmogo.com 
 *.igetget.com 
@@ -582,13 +438,11 @@
 *.saolife.com 
 
 ; Deepin
-
 *.deepin.com 
 *.deepin.io 
 *.deepin.org 
 
 ; dingtalk
-
 *.dingtalk.com 
 *.dingtalk.net 
 *.dingtalkapps.com 
@@ -598,36 +452,16 @@
 *.lwurl.to 
 
 ; douyu
-
 *.douyu.tv 
 *.douyu.com 
 *.douyuscdn.com 
 *.douyutv.com 
 
-; dwion
-
-*.acadn.com 
-*.bbbcdns.com 
-*.dlgslb.net 
-*.dwion.com 
-*.fastcdn.com 
-*.flxdns.com 
-*.tlgslb.com 
-
-; eastmoney
-
-*.dfcfw.com 
-*.eastmoney.com 
-*.eastmoneyfutures.com 
-*.emsec.hk 
-
 ; eleme
-
 *.ele.me 
 *.elemecdn.com 
 
 ; everbright
-
 *.cebbank.com 
 *.ceblease.com 
 *.eb-ind.com 
@@ -644,27 +478,19 @@
 *.sunlife-everbright.com 
 
 ; ganji
-
 *.ganji.com 
 *.ganjistatic1.com 
 
 ; gcores
-
 *.gcores.com 
 
 ; gitv
-
 *.gitv.tv 
 
 ; google in cn
-
 fonts.googleapis.com 
 
-; Hacpai
-*.hacpai.com 
-
 ; huawei
-
 *.hicloud.com 
 *.hihonor.com 
 *.huawei.com 
@@ -673,17 +499,14 @@ fonts.googleapis.com
 *.vmallres.com 
 
 ; hupu
-
 *.hupu.com 
 *.hupucdn.com 
 
 ; huya
-
 *.huya.com 
 *.msstatic.com 
 
 ; icbc 爱存不存
-
 *.icbc-ltd.com 
 *.icbc-uk.com 
 *.icbc-us.com 
@@ -702,7 +525,6 @@ fonts.googleapis.com
 *.icbcswiss.com 
 
 ; ifanr
-
 *.coolbuy.com 
 *.ifanr.com 
 *.ifanr.in 
@@ -711,7 +533,6 @@ fonts.googleapis.com
 *.minapp.com 
 
 ; iqiyi
-
 *.71.am 
 *.iqiyi.com 
 *.iqiyipic.com 
@@ -722,11 +543,9 @@ fonts.googleapis.com
 *.qy.net 
 
 ; CDN used by iqiyi
-
 *.71edge.com 
 
 ; jd
-
 *.300hu.com 
 *.360buy.com 
 *.360buyimg.com 
@@ -794,45 +613,18 @@ fonts.googleapis.com
 *.yiyaojd.com 
 *.yizhitou.com 
 
-; jibencaozuo
-
-*.jbcz.tv 
-*.jibencaozuo.com 
-
-; jiguang
-
-*.5566ua.com 
-*.jchat.io 
-*.jmlk.co 
-*.jpush.io 
-*.jpushoa.com 
-*.pushcfg.com 
-
 ; jiemian
-
 *.jiemian.com 
 
-; jinrishici
-
-*.jinrishici.com 
-
-; jinshuju
-
-*.jinshuju.net 
-*.jinshujucdn.com 
-
 ; jsdelivr
-
 *.jsdelivr.net 
 *.jsdelivr.com 
 
 ; juejin
-
 *.juejin.im 
 *.xitu.io 
 
 ; kingsoft
-
 *.51dzt.com 
 *.cmcm.com 
 *.cmcmcdn.com 
@@ -851,64 +643,40 @@ fonts.googleapis.com
 *.wpsgo.com 
 
 ; 快看漫画
-
 *.kkmh.com 
 *.kuaikanmanhua.com 
 
 ; kuaishou
-
 *.gifshow.com 
 *.ksapisrv.com 
 *.kuaishou.com 
 *.yximgs.com 
 
-; lagou
-
-*.lagou.com 
-*.lgstatic.com 
-
-; landian
-
-*.lancdn.com 
-*.landiannews.com 
-
 ; lanzou
-
 *.baidupan.com 
 *.lanzou.com 
 *.lanzous.com 
 *.woozooo.com 
+*.lanzoux.com
 
 ; Lianjia
-
 *.lianjia.com 
 *.ljcdn.com 
 
 ; liepin
-
 *.liepin.com 
 *.lietou.com 
 *.lietou-static.com 
 
-*.wsoso.com 
-
 ; mafengwo
-
 *.mafengwo.com 
 *.mafengwo.net 
 
-; maoyun
-
-*.maoyun.com 
-*.maoyuncloud.com 
-
 ; meitu
-
 *.meitu.com 
 *.meitudata.com 
 
 ; meituan
-
 *.dianping.com 
 *.maoyan.com 
 *.meituan.com 
@@ -917,18 +685,14 @@ fonts.googleapis.com
 *.sankuai.com 
 
 ; meizu
-
 *.meizu.com 
 *.mzres.com 
 
 ; mihoyo
-
 *.mihoyo.com 
-
 *.bh3.com 
 
 ; netease
-
 *.126.com 
 *.126.link 
 *.126.net 
@@ -953,7 +717,6 @@ fonts.googleapis.com
 *.youdao.com 
 
 ; oneplus
-
 *.oneplus.com 
 *.oneplus.net 
 *.opstatics.com 
@@ -961,7 +724,6 @@ fonts.googleapis.com
 *.h2os.com 
 
 ; oppo
-
 *.coloros.com 
 *.finzfin.com 
 *.h2os.com 
@@ -980,24 +742,16 @@ fonts.googleapis.com
 *.realmemobile.com 
 
 ; pinduoduo
-
 *.pddpic.com 
 *.pinduoduo.com 
 *.yangkeduo.com 
 
 ; pingan
-
 *.pingan.com 
 *.pingan.com.hk 
 *.yqb.com 
 
-; pptv
-
-*.pplive.com 
-*.pptv.com 
-
 ; qihoo360
-
 *.360.com 
 *.360chou.com 
 *.360daikuan.com 
@@ -1040,7 +794,6 @@ fonts.googleapis.com
 *.youhua.com 
 
 ; qiniu
-
 *.qbox.me 
 *.qiniu.com 
 *.qiniucdn.com 
@@ -1051,7 +804,6 @@ fonts.googleapis.com
 *.qnssl.com 
 
 ; ruanmei
-
 *.6655.com 
 *.cooldock.com 
 *.ithome.com 
@@ -1061,12 +813,7 @@ fonts.googleapis.com
 *.win7china.com 
 *.win8china.com 
 
-; sfacg
-
-*.sfacg.com 
-
 ; sina
-
 *.97973.com 
 *.sina.com 
 *.sinaapp.com 
@@ -1077,15 +824,12 @@ fonts.googleapis.com
 *.weibocdn.com 
 
 ; sina-ads
-
 *.sina.com.hk 
 
 ; stage1st
-
 *.saraba1st.com 
 
 ; sf-express
-
 *.feng1.com 
 *.rongechain.com 
 *.sf-airlines.com 
@@ -1095,54 +839,32 @@ fonts.googleapis.com
 *.sfgy.org 
 
 ; sogou
-
 *.go2map.com 
 *.sogo.com 
 *.sogou.com 
 *.sogoucdn.com 
 
 ; Sohu
-
 *.sohu.com 
 *.sohucs.com 
 
-; Solidot
-
-*.solidot.org 
-
 ; suning
-
 *.cnsuning.com 
 *.suning.com 
 *.suningcloud.com 
 *.suningestate.com 
 *.suningholdings.com 
 
-; taikang
-
-*.taikang.com 
-*.taikanglife.com 
-*.taikangzhijia.com 
-*.tkhealthcare.com 
-
-; taomee
-
-*.61.com 
-*.taomee.com 
-
 ; taptap
-
 *.tapimg.com 
 *.taptap.com 
 
 ; teambition
-
 *.teambition.com 
 *.teambition.net 
 *.teambitionapis.com 
 
 ; tencent
-
 *.apcdns.net 
 *.cdntips.com 
 *.foxmail.com 
@@ -1170,16 +892,10 @@ fonts.googleapis.com
 *.weiyun.com 
 
 ; tiancity
-
 *.tiancity.com 
 *.tiancitycdn.com 
 
-; tipdm
-
-*.tipdim.org 
-
 ; tmtpost
-
 *.tmtpost.com 
 *.chaindd.com 
 *.72whys.com 
@@ -1189,7 +905,6 @@ fonts.googleapis.com
 *.tmtsmartrun.com 
 
 ; tongcheng
-
 *.17u.net 
 *.17usoft.com 
 *.17usoft.net 
@@ -1198,13 +913,11 @@ fonts.googleapis.com
 *.ly.com 
 
 ; u17
-
 *.u17.com 
 *.u17i.com 
 *.u17t.com 
 
 ; umeng
-
 *.mobmore.com 
 *.umeng.com 
 *.umtrack.com 
@@ -1214,38 +927,28 @@ fonts.googleapis.com
 *.whalecloud.com 
 
 ; unionpay
-
 *.95516.com 
 *.unionpay.com 
 *.unionpayintl.com 
 *.unionpaysecure.com 
 
 ; 又拍云
-
 *.upai.com 
 *.upcdn.net 
 *.upaiyun.com 
 *.upyun.com 
 
 ; wenjuanxing
-
 *.sojump.com 
 *.wjx.com 
 *.wjx.top 
 
-; Wiwide
-
-*.wamawama.com 
-*.wiwide.com 
-
 ; xueersi
-
 *.speiyou.com 
 *.xesimg.com 
 *.xueersi.com 
 
 ; xiaomi
-
 *.mi.com 
 *.xiaomi.com 
 *.miwifi.com 
@@ -1254,46 +957,35 @@ fonts.googleapis.com
 *.xiaomi.net 
 
 ; Xiaomi YouPin
-
 *.xiaomiyoupin.com 
 
 ; xiaomitv-ads 
-
 *.duokanbox.com 
 *.atianqi.com 
 *.kuyun.com 
 *.umeng.com 
 
 ; Ximalaya
-
 *.ximalaya.com 
 *.xmcdn.com 
 
 ; xueqiu
-
 *.danjuanfunds.com 
 *.xueqiu.com 
 
 ; xueersi 学而思
-
 *.speiyou.com 
 *.xesimg.com 
 *.xueersi.com 
 
 ; xunlei
-
 *.00cdn.com 
 *.88cdn.com 
 *.sandai.net 
 *.thunderurl.com 
 *.xunlei.com 
 
-; ynet
-
-*.ynet.com 
-
 ; youku
-
 *.kumiao.com 
 *.youku.com 
 *.ykimg.com 
@@ -1301,16 +993,13 @@ fonts.googleapis.com
 *.soku.com 
 
 ; youku video cdn
-
 *.cibntv.net 
 
 ; youzan
-
 *.youzan.com 
 *.youzanyun.com 
 
 ; 猿辅导
-
 *.banmaaike.com 
 *.xiaoyuankousuan.com 
 *.ybccode.com 
@@ -1319,7 +1008,6 @@ fonts.googleapis.com
 *.yuantiku.com 
 
 ; yunfanjiasu
-
 *.yfcache.com 
 *.yfcalc.com 
 *.yfcloud.com 
@@ -1329,27 +1017,22 @@ fonts.googleapis.com
 *.yunfancdn.com 
 
 ; zhihu
-
 *.zhihu.com 
 *.zhimg.com 
 
 ; ziroom 自如
-
 *.ziroom.com 
 *.ziroomapartment.com 
 
 ; zuoyebang
-
 *.zuoyebang.cc 
 *.zuoyebang.com 
 *.zybang.com 
 
 ; CDNs
-
 *.ourdvsss.com 
 
 ; Bank of China
-
 *.abchina.com 
 *.whccb.com 
 
@@ -1357,1130 +1040,6 @@ fonts.googleapis.com
 *.moji.com 
 *.mojichina.com 
 
-; 在线工具书
-*.guoxuedashi.com 
-*.guoxuemi.com 
-
-; 餐饮类
-*.haidilao.com 
-
-; The following domains are carried over from geosite:cn.
-
-
-
-
-*.0123456789.com 
-*.0379home.com 
-*.055110.com 
-*.0759job.com 
-*.100bt.com 
-*.100offer.com 
-*.11467.com 
-*.114chn.com 
-*.114piaowu.com 
-*.115.com 
-*.119you.com 
-*.123juzi.com 
-*.123juzi.net 
-*.123u.com 
-*.1637.com 
-*.16888.com 
-*.16rd.com 
-*.17173.com 
-*.178.com 
-*.178linux.com 
-*.17989.com 
-*.17cdn.com 
-*.17house.com 
-*.18183.com 
-*.188.com 
-*.1905.com 
-*.19yxw.com 
-*.1nongjing.com 
-*.1ting.com 
-*.1zhe.com 
-*.21cn.com 
-*.2265.com 
-*.2288.org 
-*.2345.com 
-*.258.com 
-*.263.net 
-*.289.com 
-*.2cto.com 
-*.3000.com 
-*.310win.com 
-*.315che.com 
-*.3234.com 
-*.3322.org 
-*.3387.com 
-*.33lc.com 
-*.3456.cc 
-*.35.com 
-*.3533.com 
-*.360aiyi.com 
-*.360doc.com 
-*.360zhyx.com 
-*.365azw.com 
-*.365dmp.com 
-*.36kr.com 
-*.37.com 
-*.3733.com 
-*.3839.com 
-*.39.net 
-*.3conline.com 
-*.3d66.com 
-*.3dmgame.com 
-*.3elife.net 
-*.3h3.com 
-*.3yx.com 
-*.4paradigm.com 
-*.500.com 
-*.500d.me 
-*.50bang.org 
-*.51.com 
-*.51.la 
-*.510you.com 
-*.51credit.com 
-*.51cto.com 
-*.51eshop.com 
-*.51gaifang.com 
-*.51hejia.com 
-*.51jingying.com 
-*.51meishu.com 
-*.51sole.com 
-*.51wendang.com 
-*.51yes.com 
-*.5253.com 
-*.52hxw.com 
-*.52miji.com 
-*.52pk.com 
-*.52z.com 
-*.53kf.com 
-*.55.com 
-*.5577.com 
-*.55bbs.com 
-*.56.com 
-*.58pic.com 
-*.5bite.com 
-*.5fun.com 
-*.5gzm.net 
-*.5khouse.com 
-*.5you.com 
-*.66wz.com 
-*.680.com 
-*.6rooms.com 
-*.71.am 
-*.714.com 
-*.72byte.com 
-*.7down.com 
-*.7k7k.com 
-*.7moor.com 
-*.7x24cc.com 
-*.818ps.com 
-*.84399.com 
-*.8686c.com 
-*.885.com 
-*.88cdn.com 
-*.900.la 
-*.91danji.com 
-*.91yunxiao.com 
-*.9553.com 
-*.962.net 
-*.9718.com 
-*.99166.com 
-*.998.com 
-*.999d.com 
-*.99danji.com 
-*.9xgame.com 
-*.9xu.com 
-*.a9vg.com 
-*.aardio.com 
-*.adxvip.com 
-*.afzhan.com 
-*.agrantsem.com 
-*.aicdn.com 
-*.aiemy.com 
-*.aiketour.com 
-*.aiops.com 
-*.aipai.com 
-*.airchangan.com 
-*.airguilin.com 
-*.aiskycn.com 
-*.aiyunxiao.com 
-*.aizhan.com 
-*.ali213.net 
-*.alittle-tea.com 
-*.allyes.com 
-*.anquan.org 
-*.anruan.com 
-*.antutu.com 
-*.aotrip.net 
-*.aoyou.com 
-*.appchina.com 
-*.appinn.com 
-*.babytree.com 
-*.babytreeimg.com 
-*.baidufree.com 
-*.baifendian.com 
-*.baihe.com 
-*.baike.com 
-*.baixing.com 
-*.baixing.net 
-*.bamenzhushou.com 
-*.bangongziyuan.com 
-*.bankcomm.com 
-*.bankofchina.com 
-*.baofeng.com 
-*.baomitu.com 
-*.baoxianshichang.com 
-*.bcy.net 
-*.bearychat.com 
-*.beihaidc.com 
-*.beijing-lipin.com 
-*.bestopview.com 
-*.biancheng.net 
-*.bibaodao.com 
-*.bidchance.com 
-*.biddingx.com 
-*.bihu.com 
-*.bio-equip.com 
-*.bio360.net 
-*.bio4p.com 
-*.biodiscover.com 
-*.bishijie.com 
-*.bitauto.com 
-*.bitautoimg.com 
-*.bitecoin.com 
-*.biyehome.net 
-*.bjcathay.com 
-*.bobo.com 
-*.bokecc.com 
-*.boosj.com 
-*.bootcss.com 
-*.btcfans.com 
-*.btgtravel.com 
-*.bthhotels.com 
-*.btime.com 
-*.cabbagebox.com 
-*.caijingwu.com 
-*.caixin.com 
-*.caiyun.com 
-*.caiyunapp.com 
-*.cang.com 
-*.cankaoxiaoxi.com 
-*.cardbaobao.com 
-*.carnoc.com 
-*.cctv.com 
-*.cctvpic.com 
-*.cdn20.com 
-*.cecdc.com 
-*.cecport.com 
-*.centanet.com 
-*.cerambath.org 
-*.ch.com 
-*.chachaba.com 
-*.changba.com 
-*.chaoxing.cc 
-*.chaoxing.com 
-*.chashebao.com 
-*.chazhengla.com 
-*.che168.com 
-*.china-chair.com 
-*.china-nengyuan.com 
-*.china.com 
-*.chinacache.com 
-*.chinacache.net 
-*.chinachugui.com 
-*.chinadongchu.com 
-*.chinafph.com 
-*.chinakaoyan.com 
-*.chinalawedu.com 
-*.chinanews.com 
-*.chinapay.com 
-*.chinapp.net 
-*.chinapubmed.net 
-*.chinasspp.com 
-*.chinatranslation.net 
-*.chinaunix.net 
-*.chinauos.com 
-*.chinaweiyu.com 
-*.chinawutong.com 
-*.chinaz.com 
-*.chinaz.net 
-*.chinazns.com 
-*.chiphell.com 
-*.chongdiantou.com 
-*.chouti.com 
-*.chuangxin.com 
-*.chuansong.me 
-*.chuansongme.com 
-*.chushou.tv 
-*.chuyu.me 
-*.city8.com 
-*.cjol.com 
-*.clouddn.com 
-*.cloudxns.com 
-*.cn.bing.com 
-*.cnanzhi.com 
-*.cnbeta.com 
-*.cnbetacdn.com 
-*.cnblogs.com 
-*.cnepub.com 
-*.cnfol.com 
-*.cnlaw.net 
-*.cnmstl.net 
-*.cnstock.com 
-*.cnzz.com 
-*.cocodiy.com 
-*.code666.com 
-*.cofeed.com 
-*.cofool.com 
-*.coindog.com 
-*.contentchina.com 
-*.cpppf.org 
-*.cqvip.com 
-*.cr173.com 
-*.crsky.com 
-*.csbew.com 
-*.csslcloud.net 
-*.cssmoban.com 
-*.ctfile.com 
-*.ctiforum.com 
-*.ctoutiao.com 
-*.ctsbw.com 
-*.cubead.com 
-*.cubox.pro
-*.cwxzx.com 
-*.cyagen.com 
-*.cybtc.com 
-*.cyol.com 
-*.cyts.com 
-*.cztv.com 
-*.cztvcloud.com 
-*.dadajiasu.com 
-*.dadighost.com 
-*.daguzhe.com 
-*.dajiabao.com 
-*.dajie.com 
-*.dajieimg.com 
-*.dalongyun.com 
-*.dangbei.com 
-*.dangdang.com 
-*.danji100.com 
-*.danji6.com 
-*.daocloud.io 
-*.daovoice.io 
-*.dayukaoshi.com 
-*.dazijia.com 
-*.dbank.com 
-*.dcdkjx.com 
-*.dd373.com 
-*.ddooo.com 
-*.dedecms.com 
-*.develenv.com 
-*.dginfo.com 
-*.dgphospital.com 
-*.dgtle.com 
-*.dianchacha.com 
-*.diandian.com 
-*.diandianqi.com 
-*.dianwannan.com 
-*.dida365.com
-*.didichuxing.com 
-*.dingxiang-inc.com 
-*.diopic.net 
-*.diyiyou.com 
-*.dj99.com 
-*.dmzj.com 
-*.docin.com 
-*.dockerone.com 
-*.dockone.io 
-*.dogedoge.com 
-*.donews.com 
-*.dongao.com 
-*.dongguantoday.com 
-*.dopa.com 
-*.douban.com 
-*.douban.fm 
-*.doubanio.com 
-*.douxie.com 
-*.downxia.com 
-*.downyi.com 
-*.dpfile.com 
-*.dreams-travel.com 
-*.drivergenius.com 
-*.dui.ai 
-*.duiopen.com 
-*.duoduocdn.com 
-*.duokanbox.com 
-*.duomai.com 
-*.duoshuo.com 
-*.duote.com 
-*.duowan.com 
-*.dxpmedia.com 
-*.dxycdn.com 
-*.dyhjw.com 
-*.dzw3.com 
-*.dzwww.com 
-*.easesale.com 
-*.easiu.com 
-*.eastday.com 
-*.eayyou.com 
-*.ebico.com 
-*.ebrun.com 
-*.ecjobhome.com 
-*.eduei.com 
-*.eeyy.com 
-*.eflycloud.com 
-*.elecfans.com 
-*.emarbox.com 
-*.enterdesk.com 
-*.eoeandroid.com 
-*.eudic.net
-*.excelhome.net 
-*.expreview.com 
-*.f.cx 
-*.faloo.com 
-*.famulei.com 
-*.fanli.com 
-*.fanxian.com 
-*.fastapi.net 
-*.feiniaomy.com 
+; 自定义
 *.feng.com 
-*.fengkongcloud.com 
-*.fengniao.com 
-*.fengxian110.com 
-*.fenxi.com 
-*.fhldns.com 
-*.fimmu.com 
-*.finchina.com 
-*.fixdown.com 
-*.fm3838.com 
-*.fqjob.net 
-*.freebuf.com 
-*.fugetech.com 
-*.fuwj.com 
-*.fxxz.com 
-*.fyxz.com 
-*.game234.com 
-*.gameabc.com 
-*.gamemei.com 
-*.gamersky.com 
-*.gaodun.com 
-*.gaoshouyou.com 
-*.gaoxiaojob.com 
-*.gdjdxy.com 
-*.gdrc.com 
-*.geekpark.net 
-*.geetest.com 
-*.geilicdn.com 
-*.genelinkout.com 
-*.getquicker.net
-*.getui.com 
-*.gezida.com 
-*.gfan.com 
-*.giocdn.com 
-*.gitee.com 
-*.gm86.com 
-*.gmallbio.com 
-*.gmz88.com 
-*.gold678.com 
-*.golue.com 
-*.gongxiangcj.com 
-*.goosail.com 
-*.goufw.com 
-*.gree.com 
-*.greenxiazai.com 
-*.growingio.com 
-*.gtags.net 
-*.guabu.com 
-*.guanaitong.com 
-*.guanhaobio.com 
-*.gucheng.com 
-*.guigu.org 
-*.guokr.com 
-*.guoxinmac.com 
-*.gupzs.com 
-*.gushiwen.org 
-*.guzhangting.com 
-*.gwdang.com 
-*.gxairlines.com 
-*.gxb.io 
-*.gzwanju.com 
-*.h5uc.com 
-*.hackhome.com 
-*.haishun.com 
-*.hanboshi.com 
-*.handanjob.com 
-*.hangjiayun.com 
-*.hao123.com 
-*.hao123img.com 
-*.haote.com 
-*.haoyouyinxiang.com 
-*.hefei.cc 
-*.heisha.net 
-*.henha.com 
-*.henkuai.com 
-*.herostart.com 
-*.hexun.com 
-*.heytea.com 
-*.hiido.com 
-*.hitv.com 
-*.hiyd.com 
-*.hktheone.com 
-*.hn-cbec.com 
-*.hnair.com 
-*.hnyuyuhui.com 
-*.hollycrm.com 
-*.homeinns.com 
-*.homekoo.com 
-*.hongsanban.com 
-*.hongxiu.com 
-*.houdao.com 
-*.houyuantuan.com 
-*.hteacher.net 
-*.huanqiu.com 
-*.huashengdaili.com 
-*.huatu.com 
-*.huize.com 
-*.hujia.org 
-*.hujiang.com 
-*.hunantv.com 
-*.huochepiao.com 
-*.huocheso.com 
-*.huxiu.com 
-*.hxfy888.com 
-*.iask.com 
-*.ibaotu.com 
-*.ibuychem.com 
-*.icaidao.com 
-*.ichangtou.com 
-*.idqqimg.com 
-*.ifeng.com 
-*.ifengimg.com 
-*.iflytek.com 
-*.igao7.com 
-*.iheima.com 
-*.ijiandao.com 
-*.ijinshan.com 
-*.ikafan.com 
-*.im-cc.com 
-*.im2maker.com 
-*.imedao.com 
-*.imgo.tv 
 *.imomoe.in
-*.imooc.com 
-*.indienova.com
-*.infoq.com 
-*.infoqstatic.com 
-*.ip-cdn.com 
-*.ip138.com 
-*.ipinyou.com 
-*.ipip.net 
-*.iranshao.com 
-*.irs01.com 
-*.ishumei.com 
-*.it165.net 
-*.it168.com 
-*.it610.com 
-*.iteye.com 
-*.itjuzi.com 
-*.itmop.com 
-*.iyiou.com 
-*.iyunxiao.com 
-*.izuche.com 
-*.jandan.net 
-*.jb51.com 
-*.jdair.net  
-*.jia.com 
-*.jiameng.com 
-*.jianshu.com 
-*.jianshu.io 
-*.jianzhi8.com 
-*.jiaodong.net 
-*.jiaoyimao.com 
-*.jiasuhui.com 
-*.jiasule.com 
-*.jiathis.com 
-*.jiayuan.com 
-*.jiazhao.com 
-*.jiemeng8.com 
-*.jikexueyuan.com 
-*.jindidata.com 
-*.jinianbi.com 
-*.jinrongren.net 
-*.jinse.com 
-*.jinti.com 
-*.jisuanke.com 
-*.jiuzhilan.com 
-*.jj20.com 
-*.jjwxc.net 
-*.jmstatic.com 
-*.job5588.com 
-*.job910.com 
-*.jobjm.com 
-*.jsbc.com 
-*.jsrdgg.com 
-*.jstv.com 
-*.juefeng.com 
-*.jumei.com 
-*.juwan.com 
-*.juxia.com 
-*.jyimg.com 
-*.k366.com 
-*.kaifubiao.com 
-*.kaixin001.com 
-*.kameng98.com 
-*.kanimg.com 
-*.kankanews.com 
-*.kantianqi.net 
-*.kanzhun.com 
-*.kaopu001.com 
-*.keboyunxiao.com 
-*.kejet.net 
-*.kf5.com 
-*.kgimg.com 
-*.kimiss.com 
-*.kingdee.com 
-*.kkzj.com 
-*.kongfz.com 
-*.koolearn.com 
-*.kouclo.com 
-*.koudai.com 
-*.koudai8.com 
-*.kq7.com 
-*.ksord.com 
-*.ku6.com 
-*.ku6cdn.com 
-*.ku6img.com 
-*.kuaaa.com 
-*.kuaidi100.com 
-*.kuaihou.com 
-*.kuaizhan.com 
-*.kugou.com 
-*.kuqin.com 
-*.kuyiso.com 
-*.lady8844.com 
-*.laomaotao.net 
-*.laomaotao.org 
-*.larsonlimited.com 
-*.lascn.net 
-*.lavafox.com
-*.lawxp.com 
-*.le.com 
-*.leanote.com 
-*.ledu.com 
-*.leetcode-cn.com 
-*.leikeji.com 
-*.leiphone.com 
-*.leiting.com 
-*.leju.com 
-*.leturich.org 
-*.letv.com 
-*.letvcdn.com 
-*.letvimg.com 
-*.lianmishu.com 
-*.liantu.com 
-*.liantu.me 
-*.lianzhuli.com 
-*.liaoxuefeng.com 
-*.liba.com 
-*.libaclub.com 
-*.lieyunwang.com 
-*.lightonus.com 
-*.likuso.com 
-*.lingkou.com 
-*.linkvans.com 
-*.linmi.cc
-*.linsn.com 
-*.linuxidc.com 
-*.liulanqi.net 
-*.liuxiaoer.com 
-*.live800.com 
-*.lixinger.com 
-*.lkkbrand.com 
-*.longhoo.net 
-*.longre.com 
-*.longtugame.com 
-*.longzhu.com 
-*.lotpc.com 
-*.loupan.com 
-*.lrts.me 
-*.lu.com 
-*.luckyair.net 
-*.lufax.com 
-*.lufaxcdn.com 
-*.luyouqi.com 
-*.lvmama.com 
-*.lvsexitong.com 
-*.lxdns.com 
-*.lxway.com 
-*.magedu.com 
-*.maisanqi.com 
-*.mamecn.com 
-*.manhuatai.com 
-*.manmankan.com 
-*.mapbar.com 
-*.mayi.com 
-*.mayihr.com 
-*.mcbang.com 
-*.mdpda.com 
-*.mechina.org 
-*.mediav.com 
-*.meifang.com 
-*.meika360.com 
-*.meilishuo.com 
-*.meimingteng.com 
-*.meiqia.com 
-*.meishichina.com 
-*.meishij.net 
-*.meizu.com 
-*.mengtuoshi.wang 
-*.mgtv.com 
-*.miaobolive.com 
-*.miaopai.com 
-*.miaozhen.com 
-*.miercn.com 
-*.mikecrm.com 
-*.minhangshi.com 
-*.miusi.co 
-*.mjia.cc 
-*.mmbang.com 
-*.mmbang.info 
-*.modian.com
-*.moegirl.org 
-*.mofang.com 
-*.mofazhu.com 
-*.mogu.com 
-*.mogucdn.com 
-*.mogujie.com 
-*.moleecel.com 
-*.moocollege.com 
-*.mop.com 
-*.msanjia.com 
-*.mscbsc.com 
-*.mukewang.com 
-*.mumayi.com 
-*.muomou.com 
-*.mvcat.com
-*.mydown.com 
-*.mydrivers.com 
-*.myshow360.net 
-*.myyx618.com 
-*.myzaker.com 
-*.mzstatic.com 
-*.naixuecha.com 
-*.netbian.com 
-*.newasp.net 
-*.newbandeng.com 
-*.newyx.net 
-*.ngabbs.com 
-*.ngacn.cc 
-*.nowcoder.com 
-*.nowscore.com 
-*.nruan.com 
-*.ntalker.com 
-*.nvsheng.com 
-*.nzbdw.com 
-*.oeeee.com 
-*.offcn.com 
-*.officese.com 
-*.oicq88.com 
-*.okooo.com 
-*.ol-cdn.com 
-*.ol-img.com 
-*.oldboyedu.com 
-*.oneapm.com 
-*.onegreen.net 
-*.oneyac.com 
-*.onlinedown.net 
-*.onlinesjtu.com 
-*.opdown.com 
-*.oray.com 
-*.oschina.net 
-*.oupeng.com 
-*.p2peye.com 
-*.p5w.net 
-*.paipai.com 
-*.paipaibang.com 
-*.paopaoche.net 
-*.pc6.com 
-*.pcbeta.com 
-*.pchome.net 
-*.pcpop.com 
-*.peccn.com 
-*.pgzs.com 
-*.pharmacodia.com 
-*.pingplusplus.com 
-*.pingwest.com 
-*.pingxx.com 
-*.pintu360.com 
-*.pipaw.com 
-*.pipaw.net 
-*.pptbest.com 
-*.psbc.com 
-*.pubyun.com 
-*.qbox.me 
-*.qc188.com 
-*.qcc.com 
-*.qcds.com 
-*.qd-metro.com 
-*.qd8.com 
-*.qdmm.com 
-*.qiangbus.com 
-*.qianjia.com 
-*.qianzhan.com 
-*.qiaobutang.com 
-*.qichacha.com 
-*.qidian.com 
-*.qie.tv 
-*.qifeiye.com 
-*.qijiayoudao.net 
-*.qingcloud.com 
-*.qingdaochina.org 
-*.qingdaonews.com 
-*.qingsongchou.com 
-*.qingting.fm 
-*.qiumibao.com 
-*.qizuang.com 
-*.qqddc.com 
-*.qqgexingqianming.com 
-*.qqrizhi.com 
-*.qqshuoshuo.com 
-*.qschou.com 
-*.qtmojo.com 
-*.qudong.com 
-*.qugame.com 
-*.qunar.com 
-*.qunarzz.com 
-*.qyer.com 
-*.readnovel.com 
-*.rfchost.com 
-*.rijutv.com
-*.rong360.com 
-*.rtbasia.com 
-*.ruan8.com 
-*.ruby-china.org 
-*.runoob.com 
-*.runsheng.com 
-*.rzrc114.com 
-*.saibo.com 
-*.sanguosha.com 
-*.sanwen.net 
-*.saraba1st.com
-*.scoregg.com 
-*.sczsxx.com 
-*.sdo.com 
-*.sec-wiki.com 
-*.segmentfault.com 
-*.sencdn.com 
-*.seniverse.com 
-*.senlinjimore.com 
-*.shanghairc.com 
-*.shangzhibo.tv 
-*.shanshuihotel.com 
-*.sharejs.com 
-*.shebiaotm.com 
-*.shelter-china.com 
-*.shelterdome.net 
-*.shengdaosoft.com 
-*.shenmayouxi.com 
-*.sheui.com 
-*.shixiseng.com 
-*.shmetro.com 
-*.shoujihuifu.com 
-*.shouyoubus.com 
-*.shrbank.com 
-*.shuidichou.com 
-*.shuidihuzhu.com 
-*.shumensy.com 
-*.shuoshuokong.com 
-*.shutcm.com 
-*.simei8.com 
-*.simuwang.com 
-*.sinesafe.com 
-*.sjwyx.com 
-*.skycn.com 
-*.sllssrq.com 
-*.smzdm.com 
-*.sobot.com 
-*.sofreight.com 
-*.softwhy.com 
-*.sojson.com 
-*.somode.com 
-*.soso.com 
-*.souqian.com 
-*.southmoney.com 
-*.sparkletour.com 
-*.springtour.com 
-*.sspai.com 
-*.ssports.com 
-*.starbaby.cc 
-*.starbaby.com 
-*.staticfile.org 
-*.stockstar.com 
-*.sun0769.com 
-*.sunrtb.com 
-*.supermap.com 
-*.supermapcloud.com 
-*.szfw.org 
-*.szzfgjj.com 
-*.t1y5.com 
-*.taihe.com 
-*.taihuoniao.com 
-*.tanx.com 
-*.tao123.com 
-*.taoche.com 
-*.tapimg.com
-*.te5.com 
-*.tenxcloud.com 
-*.tgbus.com 
-*.tianjimedia.com 
-*.tianjin-air.com 
-*.tianqi.com 
-*.tianyancha.com 
-*.tietuku.com 
-*.tiexue.net 
-*.timedoo.com 
-*.tingyun.com 
-*.titanar.com 
-*.tmcdn.net 
-*.tobosu.com 
-*.tom.com 
-*.tongdun.net 
-*.topthink.com 
-*.touqikan.com 
-*.travelsky.com 
-*.trunktech.com 
-*.trustexporter.com 
-*.trustutn.org 
-*.ttpod.com 
-*.tudou.com 
-*.tudouui.com 
-*.tuer123.com 
-*.tuicool.com 
-*.tuiwen.net 
-*.tujia.com 
-*.tuku.cc
-*.tuniu.com 
-*.tutuapp.com 
-*.tuwan.com 
-*.tuwanjun.com 
-*.u.tools 
-*.uggame.com 
-*.urselect.com 
-*.urumqi-air.com 
-*.useso.com 
-*.uuu9.com 
-*.uzzf.com 
-*.v5875.com 
-*.value500.com 
-*.vamaker.com 
-*.vancl.com 
-*.vanclimg.com 
-*.vcimg.com 
-*.veryzhun.com 
-*.vgtime.com 
-*.vic18.com 
-*.videojj.com 
-*.vijos.org 
-*.vip.com 
-*.vobao.com 
-*.vzuu.com 
-*.wallstreetcn.com 
-*.wangyangyang.vip 
-*.wannianli8.com 
-*.wanplus.com 
-*.wanwushuo.com 
-*.wanyiwang.com 
-*.wanyx.com 
-*.wdjimg.com 
-*.wdzj.com 
-*.weand.com 
-*.webterren.com 
-*.weicaifu.com 
-*.weidian.com 
-*.weilaicaijing.com 
-*.weilaiyunxiao.com 
-*.weiphone.com 
-*.weiphone.net 
-*.weixing.com 
-*.weiyangx.com 
-*.welltrend-edu.com 
-*.wenjuan.com 
-*.whlovehome.com 
-*.wicresoft.com 
-*.win007.com 
-*.win8.net 
-*.windows10zj.com 
-*.windows7en.com 
-*.windowszj.com 
-*.winwin7.com 
-*.wishdown.com 
-*.withpinbox.com
-*.wmzhe.com 
-*.wnhuifu.com 
-*.womai.com 
-*.wonnder.com 
-*.wooyun.org 
-*.worktile.com 
-*.woyaogexing.com 
-*.woyoo.com 
-*.wqiis.com 
-*.wrating.com 
-*.wscdns.com 
-*.wtown.com 
-*.wuming.com 
-*.wuximediaglobal.com 
-*.wywyx.com 
-*.xafc.com 
-*.xdwan.com 
-*.xfdown.com 
-*.xhaiwai.com 
-*.xhscdn.com 
-*.xiachufang.com 
-*.xiaobaixitong.com 
-*.xiaoe-tech.com 
-*.xiaogouh5.com 
-*.xiaohongshu.com 
-*.xiaoka.tv 
-*.xiaokaxiu.com 
-*.xiaomingtaiji.com 
-*.xiaoxiongxitong.com 
-*.xiaoyuxitong.com 
-*.xiayx.com 
-*.xiazaiba.com 
-*.xingtan001.com 
-*.xinhuanet.com 
-*.xinrenxinshi.com 
-*.xinshipu.com 
-*.xitong8.com 
-*.xitu.com 
-*.xiu8.com 
-*.xiucai.com 
-*.xiziwang.net 
-*.xnpic.com 
-*.xoyo.com 
-*.xpgod.com 
-*.xsa239.com 
-*.xuanchuanyi.com 
-*.xuekanba.com 
-*.xuexicha.com 
-*.xundupdf.com 
-*.xxsy.net 
-*.xycdn.com 
-*.xywy.com 
-*.xzking.com 
-*.yahui.cc 
-*.yaolan.com 
-*.yaoyl.com 
-*.yaozh.com 
-*.yccdn.com 
-*.ycgame.com 
-*.yeepay.com 
-*.yeshen.com 
-*.yesky.com 
-*.yeyulingfeng.com
-*.yh31.com 
-*.yhd.com 
-*.yicai.com 
-*.yigao.com 
-*.yigoonet.com 
-*.yihaodian.com 
-*.yihaodianimg.com 
-*.yihedoors.com 
-*.yikaochacha.com 
-*.yikexue.com 
-*.yingjia360.com 
-*.yinhang123.net 
-*.yinxiang.com 
-*.yinyuetai.com 
-*.yinzhaowang.com 
-*.yiqifa.com 
-*.yiqifa.org 
-*.yisu.com 
-*.yitaifang.com 
-*.yiwan.com 
-*.yixi.tv 
-*.yizhibo.com 
-*.yjbys.com 
-*.ynhr.com 
-*.yocajr.com 
-*.youboy.com 
-*.youjiao.com 
-*.youke.co 
-*.youlian.fun 
-*.youshang.com 
-*.youxiake.com 
-*.youxigt.com 
-*.youxihezi.net 
-*.youxila.com 
-*.youxiniao.com 
-*.youzu.com 
-*.yoyojie.com 
-*.yoyou.com 
-*.ypppt.com 
-*.yslyhr.com 
-*.ysten.com 
-*.yuewen.com 
-*.yunaq.com 
-*.yunba.io 
-*.yundaex.com 
-*.yundasys.com 
-*.yunqishi.net 
-*.yunshipei.com 
-*.yunxiao.com 
-*.yunzhijia.com 
-*.yupoo.com 
-*.yuzua.com 
-*.yxdown.com 
-*.yy.com 
-*.yytcdn.com 
-*.zampda.net 
-*.zampdsp.com 
-*.zastatic.com 
-*.zbjimg.com 
-*.zczj.com 
-*.zdfans.com 
-*.zdmimg.com 
-*.zgjm.org 
-*.zgjsks.com 
-*.zglxw.com 
-*.zgzcw.com 
-*.zhanbuba.com 
-*.zhangyoubao.com 
-*.zhanqi.tv 
-*.zhanzhang.net 
-*.zhaodanji.com 
-*.zhaopin.com 
-*.zhcw.com 
-*.zhenai.com 
-*.zhibo8.cc 
-*.zhidx.com 
-*.zhifang.com 
-*.zhipin.com 
-*.zhiziyun.com 
-*.zhongkao.com 
-*.zhuangjiba.com  
-*.zhuanxiandai.com 
-*.zhuanyewanjia.com 
-*.zhubajie.com 
-*.zhugeapi.net 
-*.zhugeio.com 
-*.zimuzu.io 
-*.zixiaomao.com 
-*.zixuntop.com 
-*.zjstv.com 
-*.zmengzhu.com 
-*.znj.com 
-*.zongheng.com 
-*.zoom3g.com 
-*.zrblog.net 
-*.zsxq.com 
-*.zuche.com 
-*.zuchecdn.com 
-*.zuhaowan.com 
-*.zuidaima.com 
-*.zuowen8.com 
-*.zuowenwang.net 
-*.zybang.com 
