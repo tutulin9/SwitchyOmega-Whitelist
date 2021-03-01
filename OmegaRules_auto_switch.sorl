@@ -1040,10 +1040,15 @@ fonts.googleapis.com
 *.moji.com 
 *.mojichina.com 
 
-; 自定义
+; 数码
 *.feng.com 
 *.cnblogs.com
+*.iplaysoft.com
+
+; 效率
+*.yinxiang.com
 
 ; 动漫
 *.imomoe.in
 *.agefans.net
+*.bimiacg.com
