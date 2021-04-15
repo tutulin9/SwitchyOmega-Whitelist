@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update: 2021/02/20
+; Update: 2021/04/15
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; tld-cn
@@ -1040,6 +1040,10 @@ fonts.googleapis.com
 *.moji.com 
 *.mojichina.com 
 
+; 常用
+*.douban.com
+*.doubanio.com
+
 ; 数码
 *.feng.com 
 *.cnblogs.com
@@ -1052,3 +1056,10 @@ fonts.googleapis.com
 *.imomoe.in
 *.agefans.net
 *.bimiacg.com
+
+; 游戏
+*.gamersky.com
+
+; 工具
+*.sharepoint.com
+
