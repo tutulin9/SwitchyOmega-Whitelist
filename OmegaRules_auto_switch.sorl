@@ -658,6 +658,7 @@ fonts.googleapis.com
 *.lanzous.com 
 *.woozooo.com 
 *.lanzoux.com
+*.lanzoui.com
 
 ; Lianjia
 *.lianjia.com 
@@ -1052,14 +1053,24 @@ fonts.googleapis.com
 ; 效率
 *.yinxiang.com
 
-; 动漫
+; 视频
 *.imomoe.in
 *.agefans.net
 *.bimiacg.com
+*.kuhuiv.com
 
 ; 游戏
 *.gamersky.com
 
 ; 工具
 *.sharepoint.com
+
+
+; 购物
+*.dangdang.com
+*.smzdm.com
+*.xiaohongshu.com
+
+; 学习
+*.cctalk.com
 
