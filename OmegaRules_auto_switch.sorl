@@ -1054,9 +1054,9 @@ fonts.googleapis.com
 *.yinxiang.com
 
 ; 视频
-*.imomoe.in
 *.agefans.net
 *.bimiacg.com
+*.imomoe.in
 *.kuhuiv.com
 
 ; 游戏
@@ -1064,7 +1064,6 @@ fonts.googleapis.com
 
 ; 工具
 *.sharepoint.com
-
 
 ; 购物
 *.dangdang.com
