@@ -789,9 +789,6 @@ fonts.googleapis.com
 ; sina-ads
 *.sina.com.hk 
 
-; stage1st
-*.saraba1st.com 
-
 ; sf-express
 *.feng1.com 
 *.rongechain.com 
@@ -1041,4 +1038,7 @@ fonts.googleapis.com
 
 ; 学习
 *.cctalk.com
+
+; 社交
+*.saraba1st.com 
 
