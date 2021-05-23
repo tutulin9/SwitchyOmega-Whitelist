@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update: 2021/04/15
+; Update: 2021/04/23
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; tld-cn
@@ -174,7 +174,6 @@
 *.hemaos.com 
 *.shyhhema.com 
 
-
 ; Taobao
 *.1688.com 
 *.etao.com 
@@ -227,12 +226,6 @@
 *.tanxlog.istreamsche.com 
 *.userimg.qunar.com 
 *.yiliao.hupan.com 
-
-; ASUS
-*.router.asus.com 
-
-; b3log
-*.b3log.org 
 
 ; baidu
 *.baidu 
@@ -383,24 +376,10 @@
 *.cmbwinglungbank.com 
 *.cmfchina.com 
 
-; cnki
-*.cnki.net 
-
-; coding
-*.coding.me 
-*.coding.net 
-
-; 在线文档
-*.shimo.im 
-*.yuque.com 
-
 ; coolapk
 *.coolapk.com 
 *.coolapkmarket.com 
 *.coolapkmarket.net 
-
-; csdn
-*.csdn.net 
 
 ; ctrip
 *.c-ctrip.com 
@@ -480,12 +459,6 @@
 ; ganji
 *.ganji.com 
 *.ganjistatic1.com 
-
-; gcores
-*.gcores.com 
-
-; gitv
-*.gitv.tv 
 
 ; google in cn
 fonts.googleapis.com 
@@ -612,17 +585,6 @@ fonts.googleapis.com
 *.yihaodianimg.com 
 *.yiyaojd.com 
 *.yizhitou.com 
-
-; jiemian
-*.jiemian.com 
-
-; jsdelivr
-*.jsdelivr.net 
-*.jsdelivr.com 
-
-; juejin
-*.juejin.im 
-*.xitu.io 
 
 ; kingsoft
 *.51dzt.com 
@@ -856,10 +818,6 @@ fonts.googleapis.com
 *.suningestate.com 
 *.suningholdings.com 
 
-; taptap
-*.tapimg.com 
-*.taptap.com 
-
 ; teambition
 *.teambition.com 
 *.teambition.net 
@@ -891,10 +849,6 @@ fonts.googleapis.com
 *.wechat.com 
 *.wegame.com 
 *.weiyun.com 
-
-; tiancity
-*.tiancity.com 
-*.tiancitycdn.com 
 
 ; tmtpost
 *.tmtpost.com 
@@ -1046,12 +1000,24 @@ fonts.googleapis.com
 *.doubanio.com
 
 ; 数码
+*.b3log.org 
 *.cnblogs.com
+*.cnki.net 
+*.coding.me 
+*.coding.net 
+*.csdn.net 
 *.feng.com 
 *.iplaysoft.com
+*.jiemian.com 
+*.jsdelivr.com 
+*.jsdelivr.net 
+*.juejin.im 
+*.xitu.io 
 
 ; 效率
+*.shimo.im 
 *.yinxiang.com
+*.yuque.com 
 
 ; 视频
 *.agefans.net
@@ -1061,6 +1027,9 @@ fonts.googleapis.com
 
 ; 游戏
 *.gamersky.com
+*.gcores.com 
+*.tapimg.com 
+*.taptap.com 
 
 ; 工具
 *.sharepoint.com
